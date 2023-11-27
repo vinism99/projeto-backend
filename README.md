@@ -1,2 +1,1 @@
-# projeto-backend
-aqui está a parte back-end do projeto web
+Banco de dados criado usando php e xampp
