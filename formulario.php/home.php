@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebQuiz</title>
+    <link rel="stylesheet" href="Css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto" rel="stylesheet">
+</head>
+<body>
+    <div class="home">
+        <h1>WebQuiz</h1>
+        <p>Teste seus conhecimentos sobre web design!</p>
+        <p>Incrivel desafio e ferramenta de estudo!</p>
+    
+   
+        <p>Bem-vindo ao WebQuiz! Responda as perguntas e veja quanto você sabe sobre desenvolvimento web.
+        <br><br><a href="login.php">Fazer Login </a> ou <a href="formulario.php"> Se inscrever</a>    
+        <br><br><a href="sobre.html">Sobre Nós</a></p>
+        
+    
+    
+        p>&copy; 2023 WebQuiz. Todos os direitos reservados.</p>
+    </div>
+</body>
+</html>
